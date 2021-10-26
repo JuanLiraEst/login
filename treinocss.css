@@ -1,0 +1,40 @@
+body{
+    background-image:url("Av. Paulista.jpg");
+    background-size:cover;
+}
+h1{
+    text-align:center;
+    margin-top:200px;
+    color:white;
+    font-size:45pt;
+    margin-bottom:10px;
+}
+input {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 296px;
+    height: 30px;
+    text-align: center;
+    border:2px solid black;
+    border-radius:10px;
+    background-color:white;
+    font: 13pt Arial;
+}
+::placeholder{
+    color:grey;
+}
+button{
+    display:block;
+    background-color:blue;
+    font:15pt Arial;
+    color:white;
+    margin-top:10px;
+    width: 140px;
+    height: 40px;
+    border-radius:10px;
+    border:2px solid white;
+    margin-left:39%;
+
+}
